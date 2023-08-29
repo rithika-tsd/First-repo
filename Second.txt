@@ -1,2 +1,0 @@
-This is second file
-this is new content added to the file second file.
